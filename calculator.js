@@ -20,7 +20,7 @@ function calculator() {
     } else if (operator == "*") {
       result = firstNumber * secondNumber;
     }
-    alert("Result is " + result);
+    alert("The result is " + result);
   }
 }
 
